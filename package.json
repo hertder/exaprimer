@@ -1,0 +1,31 @@
+{
+  
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "Examen Seminario Hertder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+
+
+
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hertder/exaprimer.git"
+  },
+  "keywords": [
+    "examen",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Hertder Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hertder/exaprimer/issues"
+  },
+  "homepage": "https://github.com/hertder/exaprimer#readme"
+}
