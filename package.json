@@ -1,5 +1,4 @@
 {
-  
   "name": "examen",
   "version": "1.0.0",
   "description": "Examen Seminario Hertder",
@@ -8,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./index.js"
   },
-
-
-
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hertder/exaprimer.git"
@@ -27,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hertder/exaprimer/issues"
   },
-  "homepage": "https://github.com/hertder/exaprimer#readme"
+  "homepage": "https://github.com/hertder/exaprimer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
